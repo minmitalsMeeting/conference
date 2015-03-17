@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.visionet.inhouse.MicroMeetingProj</string>
+				<string>com.visionet.inhouse.MicroMeetingProj.fixios8</string>
 				<key>bundle-version</key>
 				<string>1.6</string>
 				<key>kind</key>
