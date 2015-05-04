@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.minmetals.FindestMeetingProj</string>
+				<string>com.minmetals.FindestMeetingProj.fixios8</string>
 				<key>bundle-version</key>
 				<string>1.9</string>
 				<key>kind</key>
